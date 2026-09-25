@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Dream Interiors — content data
+// Your Interiors — content data
 // Everything the site renders lives here, so copy, pricing and images can be
 // updated without touching component code. Images use Lorem Picsum seeded
 // placeholders — swap `image` / `src` fields for real photography before
@@ -7,8 +7,8 @@
 // ---------------------------------------------------------------------------
 
 export const brand = {
-  name: 'Interior ',
-  accent: 'Adda',
+  name: 'Your',
+  accent: 'Logo',
   tagline: 'Interior design studio',
 };
 
@@ -58,7 +58,7 @@ export const about = {
   headlineTop: 'Considered spaces,',
   headlineBottom: 'never over-designed',
   paragraph:
-    "Dream Interiors began as a two-person studio working out of a converted garage in Jaipur. Twelve years on, we still start every project the same way: sitting in the space, talking about how you'll actually use it, and designing outward from there.",
+    "Your Interiors began as a two-person studio working out of a converted garage in Jaipur. Twelve years on, we still start every project the same way: sitting in the space, talking about how you'll actually use it, and designing outward from there.",
   linkLabel: 'More about the studio',
   linkHref: '#services',
   images: [
@@ -328,7 +328,7 @@ export const footerData = {
   ],
   contact: {
     address: '4/17 Willowbrook Street, C-Scheme, Jaipur 302001',
-    email: 'hello@dreaminteriors.studio',
+    email: 'hello@Yourinteriors.studio',
     phone: '+91 141 234 5678',
   },
   servicesLinks: ['Space planning', 'Lighting design', 'Furniture & styling', 'Full-home design'],
